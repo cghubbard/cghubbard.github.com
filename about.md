@@ -19,7 +19,7 @@ C. Hubbard, C. Hegde, [GPUFish: A Parallel Computing Framework for Matrix Comple
 
 ### Presentations
 
-[Data-Driven Prognostics ... Bilinear Kernel Regression](\PHM2016-Presentation-Hubbard.pdf) - Oral Presentation, _Annual Conference of the Prognostics and Health Management Society_, October 2016.
+[Data-Driven Prognostics ... Bilinear Kernel Regression](/PHM2016-Presentation-Hubbard.pdf) - Oral Presentation, _Annual Conference of the Prognostics and Health Management Society_, October 2016.
 
 ### Bio
 
